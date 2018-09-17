@@ -1,4 +1,4 @@
-# Home-Credit
+# Home Credit Default Risk Prediction
 Home Credit Group is an international consumer finance provider, focusing on lending to people with little or no credit history.    
     
 The goal is to predict clients' repayment abilities based on their previous applications, payment history, and a variety of alternative data.    
